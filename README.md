@@ -29,7 +29,7 @@ I am a Software Engineer and Educator with over a decade of experience in full-s
 ### **Database and Software Engineer**
 *Palestine Technical College* | *Jul 2013 – Jun 2026*
 - Developed custom internal software solutions, staff/student portals, and automation systems using PHP Laravel and MySQL.
-- Optimized system performance, structured database architectures, and provided end-to-end technical support[cite: 1].
+- Optimized system performance, structured database architectures, and provided end-to-end technical support.
 
 ### **Full Stack Engineer**
 *Self-Employed / Freelance* | *Sep 2019 – Oct 2023*
@@ -37,7 +37,7 @@ I am a Software Engineer and Educator with over a decade of experience in full-s
 - Collaborated with multicultural teams and authored detailed technical documentatio.
 
 ### **Database Engineer**
-*Palestinian Water Authority* | *Feb 2012 – Jul 2013*[cite: 1]
+*Palestinian Water Authority* | *Feb 2012 – Jul 2013*
 - Managed complex data structures, optimized queries, and ensured data reliability across internal departments.
 
 ---
