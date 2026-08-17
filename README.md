@@ -1,5 +1,3 @@
-# Fatoom Mohammed Fayad
-
 **Software Engineer & Educator**  
 📍 Deir El-Balah, Palestine | ✉️ fatoomfayyad@gmail.com | 💼 [LinkedIn Profile](https://www.linkedin.com/in/fatoom-fayad-57255341b)
 
